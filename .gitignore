@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+catboost_info/
+submissions/
+collector_draft.ipynb
+collector_project.ipynb
+GoogleNews-vectors-negative300.bin.gz
+solutions/
+data/
